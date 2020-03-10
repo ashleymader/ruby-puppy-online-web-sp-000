@@ -12,6 +12,7 @@ class Dog
     @@all
   end
   
-  
+  def print_all 
+    all each do |
 end
   
